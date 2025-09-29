@@ -5,6 +5,8 @@ description: 'Course notes on using computational optimal control to synthesize 
 file: /courses/6-832-underactuated-robotics-spring-2009/c227804ef2d31ebb60f83acacd9b9ff5_MIT6_832s09_read_ch09.pdf
 file_size: 308844
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a description of the final project for the course,
   a list of project components, and a list of potential project topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

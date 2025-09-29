@@ -4,6 +4,8 @@ description: Course notes on the dynamics of a pendulum.
 file: /courses/6-832-underactuated-robotics-spring-2009/3cef43edc8819f9f3df4dd2d8c18abfa_MIT6_832s09_read_ch02.pdf
 file_size: 417739
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

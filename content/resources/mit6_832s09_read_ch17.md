@@ -6,6 +6,8 @@ description: Courses notes on stochastic gradient descent algorithms, methods th
 file: /courses/6-832-underactuated-robotics-spring-2009/918e59f4891fe97708b6aed1e4112a4f_MIT6_832s09_read_ch17.pdf
 file_size: 401243
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

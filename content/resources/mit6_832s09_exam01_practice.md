@@ -5,6 +5,8 @@ description: Practice problems on numerical optimal control algorithms, partial 
 file: /courses/6-832-underactuated-robotics-spring-2009/3e9732bf1ee273aabac17e23cdb39690_MIT6_832s09_exam01_practice.pdf
 file_size: 128041
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

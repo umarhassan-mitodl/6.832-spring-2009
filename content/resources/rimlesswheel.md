@@ -4,6 +4,8 @@ description: Supporting file for a problem set on simulation of a rimless wheel.
 file: /courses/6-832-underactuated-robotics-spring-2009/536b9ea33e7a6efbd8fbf221ba519998_rimlessWheel.m
 file_size: 1839
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

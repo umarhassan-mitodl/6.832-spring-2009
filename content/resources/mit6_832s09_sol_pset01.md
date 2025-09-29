@@ -5,6 +5,8 @@ description: Solutions to a problem set on the definition of underactuated, the 
 file: /courses/6-832-underactuated-robotics-spring-2009/85643200c49c68ce52c953b28a29101a_MIT6_832s09_sol_pset01.pdf
 file_size: 161074
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
