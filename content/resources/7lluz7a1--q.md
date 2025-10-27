@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-832-underactuated-robotics-spring-2009/b5c48e6aba06bc76a962a646ce594005_7LLUz7A1--Q.srt
 file_size: 86928
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

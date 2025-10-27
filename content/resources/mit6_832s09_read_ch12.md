@@ -4,8 +4,6 @@ description: Course notes on trajectory optimization.
 file: /courses/6-832-underactuated-robotics-spring-2009/2edea6101a80fc202f5ef7472956b580_MIT6_832s09_read_ch12.pdf
 file_size: 292274
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

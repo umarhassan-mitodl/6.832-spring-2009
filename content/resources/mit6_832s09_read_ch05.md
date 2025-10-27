@@ -6,8 +6,6 @@ description: 'Course notes on simple models of walking robots, the control probl
 file: /courses/6-832-underactuated-robotics-spring-2009/6e83e58917c403fdc98d2d96260661ce_MIT6_832s09_read_ch05.pdf
 file_size: 571268
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

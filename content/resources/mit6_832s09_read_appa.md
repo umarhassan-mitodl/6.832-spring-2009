@@ -5,8 +5,6 @@ description: Course notes on deriving the equations of motion, and the manipulat
 file: /courses/6-832-underactuated-robotics-spring-2009/cb77224e9452d4c115922e12a2fcb113_MIT6_832s09_read_appA.pdf
 file_size: 248155
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
